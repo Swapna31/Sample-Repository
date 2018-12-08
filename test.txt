@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7A1F-B233
+
+ Directory of C:\Swapna\GitProject
+
+12/08/2018  12:22 AM    <DIR>          .
+12/08/2018  12:22 AM    <DIR>          ..
+12/08/2018  12:22 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  62,815,862,784 bytes free

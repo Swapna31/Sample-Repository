@@ -6,3 +6,5 @@ git remote add origin https://github.com/Swapna31/Sample-Repository.git
 git push -u origin master  ->to push the changes to github
 git config --global user.name "swapna31" 
 git config --global user.email "tirumalaswapna@gmail.com"
+git log
+git --help

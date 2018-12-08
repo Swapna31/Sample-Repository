@@ -1,3 +1,7 @@
 git init
 git status
 git add
+git commit -m "msg"
+git remote add origin https://github.com/Swapna31/Sample-Repository.git
+git config --global user.name "swapna31" 
+git config --global user.email "tirumalaswapna@gmail.com"

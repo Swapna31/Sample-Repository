@@ -8,3 +8,17 @@ git config --global user.name "swapna31"
 git config --global user.email "tirumalaswapna@gmail.com"
 git log
 git --help
+//Creating branching merging
+git branch MyNewBranch
+//checkout new branch
+git checkout MyNewBranch
+//add new file
+git add "test2.txt"
+git add
+git commit -m "added test2.txt"
+git status
+git push -u origin MyNewBranch
+//merge new branch in master
+git checkout master
+git merge MyNewBranch
+git push -u origin master

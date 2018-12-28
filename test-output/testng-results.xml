@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FunctionalTesting" duration-ms="197250" started-at="2018-12-28T07:31:22Z" finished-at="2018-12-28T07:34:40Z">
+    <groups>
+    </groups>
+    <test name="Smoketest" duration-ms="94872" started-at="2018-12-28T07:31:22Z" finished-at="2018-12-28T07:32:57Z">
+      <class name="com.Internet.qa.testcases.HomePagetestcases">
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="browserinitialisation" is-config="true" duration-ms="8739" started-at="2018-12-28T02:31:22Z" finished-at="2018-12-28T02:31:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="clickOnBrokenImagesLnk()[pri:1, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="clickOnBrokenImagesLnk" duration-ms="862" started-at="2018-12-28T02:31:31Z" finished-at="2018-12-28T02:31:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBrokenImagesLnk -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="closeBrowser" is-config="true" duration-ms="3604" started-at="2018-12-28T02:31:32Z" finished-at="2018-12-28T02:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="browserinitialisation" is-config="true" duration-ms="7409" started-at="2018-12-28T02:31:35Z" finished-at="2018-12-28T02:31:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ClickOnChkboxLnkTest()[pri:2, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="ClickOnChkboxLnkTest" duration-ms="566" started-at="2018-12-28T02:31:43Z" finished-at="2018-12-28T02:31:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnChkboxLnkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="closeBrowser" is-config="true" duration-ms="3580" started-at="2018-12-28T02:31:43Z" finished-at="2018-12-28T02:31:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="browserinitialisation" is-config="true" duration-ms="7605" started-at="2018-12-28T02:31:47Z" finished-at="2018-12-28T02:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ClickOnDragnDropLnkTest()[pri:3, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="ClickOnDragnDropLnkTest" duration-ms="531" started-at="2018-12-28T02:31:55Z" finished-at="2018-12-28T02:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnDragnDropLnkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="closeBrowser" is-config="true" duration-ms="3241" started-at="2018-12-28T02:31:55Z" finished-at="2018-12-28T02:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="browserinitialisation" is-config="true" duration-ms="7802" started-at="2018-12-28T02:31:58Z" finished-at="2018-12-28T02:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ClickOnDropdownLnkTest()[pri:4, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="ClickOnDropdownLnkTest" duration-ms="639" started-at="2018-12-28T02:32:06Z" finished-at="2018-12-28T02:32:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnDropdownLnkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="closeBrowser" is-config="true" duration-ms="3207" started-at="2018-12-28T02:32:07Z" finished-at="2018-12-28T02:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="browserinitialisation" is-config="true" duration-ms="6841" started-at="2018-12-28T02:32:10Z" finished-at="2018-12-28T02:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ClickOnSortableTableLnkTest()[pri:5, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="ClickOnSortableTableLnkTest" duration-ms="429" started-at="2018-12-28T02:32:17Z" finished-at="2018-12-28T02:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSortableTableLnkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="closeBrowser" is-config="true" duration-ms="2413" started-at="2018-12-28T02:32:17Z" finished-at="2018-12-28T02:32:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="browserinitialisation" is-config="true" duration-ms="7853" started-at="2018-12-28T02:32:20Z" finished-at="2018-12-28T02:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="LinksinHomepage()[pri:6, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="LinksinHomepage" duration-ms="404" started-at="2018-12-28T02:32:28Z" finished-at="2018-12-28T02:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinksinHomepage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="closeBrowser" is-config="true" duration-ms="3323" started-at="2018-12-28T02:32:28Z" finished-at="2018-12-28T02:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="browserinitialisation" is-config="true" duration-ms="8989" started-at="2018-12-28T02:32:31Z" finished-at="2018-12-28T02:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ChkbrokenLinksInHomepgTest()[pri:7, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="ChkbrokenLinksInHomepgTest" duration-ms="3073" started-at="2018-12-28T02:32:40Z" finished-at="2018-12-28T02:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChkbrokenLinksInHomepgTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="closeBrowser" is-config="true" duration-ms="2489" started-at="2018-12-28T02:32:43Z" finished-at="2018-12-28T02:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="browserinitialisation" is-config="true" duration-ms="8252" started-at="2018-12-28T02:32:46Z" finished-at="2018-12-28T02:32:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="GetLinksCntBrokenInHomepgTest()[pri:8, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="GetLinksCntBrokenInHomepgTest" duration-ms="366" started-at="2018-12-28T02:32:54Z" finished-at="2018-12-28T02:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetLinksCntBrokenInHomepgTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@42e26948]" name="closeBrowser" is-config="true" duration-ms="2603" started-at="2018-12-28T02:32:55Z" finished-at="2018-12-28T02:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Internet.qa.testcases.HomePagetestcases -->
+    </test> <!-- Smoketest -->
+    <test name="Regression" duration-ms="102315" started-at="2018-12-28T07:32:57Z" finished-at="2018-12-28T07:34:40Z">
+      <class name="com.Internet.qa.testcases.DropdownTestcases">
+        <test-method status="PASS" signature="binitialisation()[pri:0, instance:com.Internet.qa.testcases.DropdownTestcases@3fee9989]" name="binitialisation" is-config="true" duration-ms="8170" started-at="2018-12-28T02:32:57Z" finished-at="2018-12-28T02:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- binitialisation -->
+        <test-method status="PASS" signature="Dropdowntest()[pri:0, instance:com.Internet.qa.testcases.DropdownTestcases@3fee9989]" name="Dropdowntest" duration-ms="337" started-at="2018-12-28T02:33:05Z" finished-at="2018-12-28T02:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dropdowntest -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.Internet.qa.testcases.DropdownTestcases@3fee9989]" name="CloseBrowser" is-config="true" duration-ms="3339" started-at="2018-12-28T02:33:06Z" finished-at="2018-12-28T02:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.Internet.qa.testcases.DropdownTestcases -->
+      <class name="com.Internet.qa.testcases.HomePagetestcases">
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="browserinitialisation" is-config="true" duration-ms="7619" started-at="2018-12-28T02:33:09Z" finished-at="2018-12-28T02:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="clickOnBrokenImagesLnk()[pri:1, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="clickOnBrokenImagesLnk" duration-ms="814" started-at="2018-12-28T02:33:17Z" finished-at="2018-12-28T02:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBrokenImagesLnk -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="closeBrowser" is-config="true" duration-ms="2939" started-at="2018-12-28T02:33:17Z" finished-at="2018-12-28T02:33:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="browserinitialisation" is-config="true" duration-ms="7396" started-at="2018-12-28T02:33:20Z" finished-at="2018-12-28T02:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ClickOnChkboxLnkTest()[pri:2, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="ClickOnChkboxLnkTest" duration-ms="416" started-at="2018-12-28T02:33:28Z" finished-at="2018-12-28T02:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnChkboxLnkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="closeBrowser" is-config="true" duration-ms="3035" started-at="2018-12-28T02:33:28Z" finished-at="2018-12-28T02:33:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="browserinitialisation" is-config="true" duration-ms="8480" started-at="2018-12-28T02:33:31Z" finished-at="2018-12-28T02:33:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ClickOnDragnDropLnkTest()[pri:3, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="ClickOnDragnDropLnkTest" duration-ms="474" started-at="2018-12-28T02:33:40Z" finished-at="2018-12-28T02:33:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnDragnDropLnkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="closeBrowser" is-config="true" duration-ms="2646" started-at="2018-12-28T02:33:40Z" finished-at="2018-12-28T02:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="browserinitialisation" is-config="true" duration-ms="7894" started-at="2018-12-28T02:33:43Z" finished-at="2018-12-28T02:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ClickOnDropdownLnkTest()[pri:4, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="ClickOnDropdownLnkTest" duration-ms="326" started-at="2018-12-28T02:33:51Z" finished-at="2018-12-28T02:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnDropdownLnkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="closeBrowser" is-config="true" duration-ms="3054" started-at="2018-12-28T02:33:51Z" finished-at="2018-12-28T02:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="browserinitialisation" is-config="true" duration-ms="9712" started-at="2018-12-28T02:33:54Z" finished-at="2018-12-28T02:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ClickOnSortableTableLnkTest()[pri:5, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="ClickOnSortableTableLnkTest" duration-ms="1015" started-at="2018-12-28T02:34:04Z" finished-at="2018-12-28T02:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSortableTableLnkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="closeBrowser" is-config="true" duration-ms="4221" started-at="2018-12-28T02:34:05Z" finished-at="2018-12-28T02:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="browserinitialisation" is-config="true" duration-ms="6982" started-at="2018-12-28T02:34:09Z" finished-at="2018-12-28T02:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="LinksinHomepage()[pri:6, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="LinksinHomepage" duration-ms="412" started-at="2018-12-28T02:34:16Z" finished-at="2018-12-28T02:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinksinHomepage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="closeBrowser" is-config="true" duration-ms="3069" started-at="2018-12-28T02:34:16Z" finished-at="2018-12-28T02:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="browserinitialisation" is-config="true" duration-ms="6271" started-at="2018-12-28T02:34:20Z" finished-at="2018-12-28T02:34:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="ChkbrokenLinksInHomepgTest()[pri:7, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="ChkbrokenLinksInHomepgTest" duration-ms="2161" started-at="2018-12-28T02:34:26Z" finished-at="2018-12-28T02:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChkbrokenLinksInHomepgTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="closeBrowser" is-config="true" duration-ms="1808" started-at="2018-12-28T02:34:28Z" finished-at="2018-12-28T02:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="browserinitialisation()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="browserinitialisation" is-config="true" duration-ms="6838" started-at="2018-12-28T02:34:30Z" finished-at="2018-12-28T02:34:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinitialisation -->
+        <test-method status="PASS" signature="GetLinksCntBrokenInHomepgTest()[pri:8, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="GetLinksCntBrokenInHomepgTest" duration-ms="363" started-at="2018-12-28T02:34:37Z" finished-at="2018-12-28T02:34:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetLinksCntBrokenInHomepgTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Internet.qa.testcases.HomePagetestcases@2f686d1f]" name="closeBrowser" is-config="true" duration-ms="2507" started-at="2018-12-28T02:34:37Z" finished-at="2018-12-28T02:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Internet.qa.testcases.HomePagetestcases -->
+    </test> <!-- Regression -->
+  </suite> <!-- FunctionalTesting -->
+</testng-results>

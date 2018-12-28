@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="FunctionalTesting" verbose="1" >
+ 
+<listeners>
+		<listener class-name="com.Internet.qa.extentreportlistener.ExtentReporterNG" />
+	</listeners>
+  <test name="Smoketest" >
+    <classes>
+       <class name="com.Internet.qa.testcases.HomePagetestcases" />
+    </classes>
+  </test>
+ 
+  <test name="Regression">
+    <classes>
+      <class name="com.Internet.qa.testcases.HomePagetestcases"/>
+      <class name="com.Internet.qa.testcases.DropdownTestcases"/>
+    </classes>
+  </test>
+</suite>

@@ -17,4 +17,6 @@
       <class name="com.Internet.qa.testcases.DropdownTestcases"/>
     </classes>
   </test>
+  <abc>
+  </abc>
 </suite>

@@ -21,4 +21,8 @@
   <test_1>
 	sample text
   </test_1>
+
+  <abc>
+  </abc>
+
 </suite>
